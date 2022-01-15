@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App textProps='Hello arashe khafan hhgshfhl'/>
   </React.StrictMode>,
   document.getElementById('root')
 );
